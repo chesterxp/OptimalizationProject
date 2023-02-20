@@ -8,6 +8,29 @@ In the starter kit you can see sample HTML, JS and SCSS files that are useful fo
 
 > A simple Gulp 4 Starter Kit for modern web development.
 
+## Optimization effects
+
+ --- MOBILE ---
+|     INDICATOR             |START  |   |   |   |
+|---                        |---    |---|---|---|
+|  First Content Paint      |2.6    |   |   |   |
+|  Time to Interactive      |38.3   |   |   |   |
+|  Speed Index              |13.1   |   |   |   |
+|  Total Blocking Time      |0.29   |   |   |   |
+|  Largest Content Paint    |27.7   |   |   |   |
+|  Cumulative Layout Shift  |0.059  |   |   |   |
+
+
+ --- DESKTOP ---
+|     INDICATOR             |START  |   |   |   |
+|---                        |---    |---|---|---|
+|  First Content Paint      |0.7    |   |   |   |
+|  Time to Interactive      |6.4    |   |   |   |
+|  Speed Index              |5.4    |   |   |   |
+|  Total Blocking Time      |0      |   |   |   |
+|  Largest Content Paint    |4.7    |   |   |   |
+|  Cumulative Layout Shift  |0.026  |   |   |   |
+
 ## Features / Use Cases
 This Gulp Starter Kit provides a simple way of setting up a modern web development environment.
 Here is a list of the current features:
